@@ -37,10 +37,10 @@ for line in lines:
     else:
         answer_list = []
         answers = values[1].strip().split("|")
-        print(answers)
+        # print(answers)
         for ans in answers:
             answer_dict = dict()
-            print(ans)
+            # print(ans)
             isCorrect = False
             if search("yes", ans):
                 isCorrect = True
@@ -60,7 +60,5 @@ for line in lines:
     
 with open(out_file,'w') as f:
     json.dump(output_json,f,indent=4)
-
-            
 
 
