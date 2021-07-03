@@ -2,58 +2,54 @@
     {
         "question": "Redis is an open source(BSD) licenced, in-memory data structure store.",
         "topic": "maths",
-        "id": "<function uuid4 at 0x00000170440DF280>"
-    },
-    {
+        "id": "f8232874-e2ab-4281-b7d1-00b01b6ddc5d",
         "choices": [
             {
-                "content": "  choice 4",
-                "isCorrect": true,
-                "id": "2eca7184-073c-4316-9fe7-861da540dec4"
+                "content": "choice 1",
+                "isCorrect": false,
+                "id": "edb2ccb3-d11e-43d9-a687-3ce7d640c1ca"
             },
             {
-                "content": "  choice 4",
-                "isCorrect": true,
-                "id": "2eca7184-073c-4316-9fe7-861da540dec4"
+                "content": "choice 2",
+                "isCorrect": false,
+                "id": "b4962869-cbba-407b-b030-63ff12439da7"
             },
             {
-                "content": "  choice 4",
-                "isCorrect": true,
-                "id": "2eca7184-073c-4316-9fe7-861da540dec4"
+                "content": "choice 3",
+                "isCorrect": false,
+                "id": "d8c6962e-c49e-429e-8ad7-e91194aaed90"
             },
             {
-                "content": "  choice 4",
+                "content": "choice 4",
                 "isCorrect": true,
-                "id": "2eca7184-073c-4316-9fe7-861da540dec4"
+                "id": "4306712e-8eba-4f37-ae64-bd8af52b42f8"
             }
         ]
     },
     {
         "question": "Auto-partitioning sentinennel",
         "topic": "maths",
-        "id": "<function uuid4 at 0x00000170440DF280>"
-    },
-    {
+        "id": "b674c137-84be-4ad5-948c-cccc29baa97d",
         "choices": [
             {
-                "content": " choice 4",
+                "content": "choice 1",
                 "isCorrect": false,
-                "id": "2fb24f96-5cbf-4719-9f7b-96456ec98040"
+                "id": "8d4014cb-23b8-4bad-a5aa-729a136c1227"
             },
             {
-                "content": " choice 4",
+                "content": "choice 2",
                 "isCorrect": false,
-                "id": "2fb24f96-5cbf-4719-9f7b-96456ec98040"
+                "id": "2bd1e0ea-682b-4100-9602-9a9ad05429f0"
             },
             {
-                "content": " choice 4",
-                "isCorrect": false,
-                "id": "2fb24f96-5cbf-4719-9f7b-96456ec98040"
+                "content": "choice 3",
+                "isCorrect": true,
+                "id": "9d3871df-da2e-4ab9-9c96-d33ce28437e5"
             },
             {
-                "content": " choice 4",
+                "content": "choice 4",
                 "isCorrect": false,
-                "id": "2fb24f96-5cbf-4719-9f7b-96456ec98040"
+                "id": "0bcf2c15-6283-4359-b644-09d69a648343"
             }
         ]
     }
